@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#000000</color>
+    <!-- Color for main background -->
+    <color name="main_background_color">#81D4FA</color>
+    <!-- Color for edit text background -->
+    <color name="search_background_color">#EEEEEE</color>
+    <!-- Color for edit text text -->
+    <color name="search_text_color">#455A64</color>
+    <!-- Color for edit text hint -->
+    <color name="search_hint_color">#90A4AE</color>
+    <!-- Color of button -->
+    <color name="search_button_color">#607D8B</color>
+</resources>
